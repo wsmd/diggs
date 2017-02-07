@@ -50,7 +50,7 @@ get(data, 'z.a', false) // => false
 
 ## API
 
-### `get(object, path, defaultValue)`
+### `get(object, path, [defaultValue])`
 
 Returns the value at the specified `path` of `object`. If the value is not found (`undefined`), defaultValue will be returned instead.
 
