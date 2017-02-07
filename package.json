@@ -21,7 +21,8 @@
     "test": "jest",
     "test:dev": "jest --watch --verbose",
     "build": "rollup -c",
-    "dev": "rollup -c -w"
+    "dev": "rollup -c -w",
+    "prepublish": "npm run build"
   },
 
   "jest": {
