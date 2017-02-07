@@ -1,4 +1,4 @@
-# diggs
+<img src="https://cloud.githubusercontent.com/assets/2100222/22677661/6f18c278-ecc2-11e6-8f71-d201c4265d27.png" width="233">
 
 A lightweight utility to safely dig into nested properties – because safety is number one priority.
 
